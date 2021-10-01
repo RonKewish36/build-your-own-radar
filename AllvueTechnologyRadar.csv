@@ -1,18 +1,15 @@
 name,ring,quadrant,isNew,description
-Test 1,Adopt,techniques-and-practices,TRUE,<p>Hello Test 1</p>
-Test 2,Trial,techniques-and-practices,TRUE,<p>Hello Test 2</p>
-Test 3,Assess,techniques-and-practices,TRUE,<p>Hello Test 3</p>
-Test 4,Sunset,techniques-and-practices,TRUE,<p>Hello Test 4</p>
+Scrum at Scale,Adopt,techniques-and-practices,FALSE,<p>We have adopted Scrum at Scale as our Agile Practice.</p>
+Contract First API Design,Assess,techniques-and-practices,TRUE,<p>We will be reviewing Contract First API Design with our API CoP.</p>
+Contracts and Providers Pattern,Assess,techniques-and-practices,TRUE,<p>We will be reviewing a Contracts and Providers pattern and Nuget Strategy.</p>
+Centralized Configuration Management,Assess,techniques-and-practices,TRUE,<p>We will be discussing the use of a Centralized Configuration 
 Confluent Kafka,Adopt,Platforms,False,<p>Confluent Kafka is our chosen Messaging Platform.</p>
 Mulesoft Anypoint Platform,Trial,Platforms,TRUE,<p>We are currently evaluating the MuleSoft Anypoint Platform to see how it may help us automate our integrations</p>
-Test 7,Assess,Platforms,TRUE,<p>Hello Test 7</p>
-Test 8,Sunset,Platforms,TRUE,<p>Hello Test 8</p>
 Kong Konnect,Adopt,Tools,TRUE,<p>Kong Konnect is our chosen API Gateway and API Management Solution</p>
 Jira,Adopt,Tools,FALSE,<p>Jira is our chosen Issue and Project Tracking Software</p>
 Slack,Adopt,Tools,FALSE,<p>Slack is our chosen messaging platform.</p>
 Logic Monitor,Assess,Tools,TRUE,<p>We are currently evaluating Logic Monitor for our Logging Solution</p>
 Splunk,Assess,Tools,TRUE,<p>We are planning to evalute Splunk as a Log Management and SIEM Solution.</p>
 .NET 5,Adopt,languages-and-frameworks,TRUE,<p>Hello Test 13</p>
-Test 14,Trial,languages-and-frameworks,TRUE,<p>Hello Test 14</p>
-Test 15,Assess,languages-and-frameworks,TRUE,<p>Hello Test 15</p>
 .Net Framework 4.x,Sunset,languages-and-frameworks,FALSE,<p>New projects should look at using the new .NET 5+ framework</p>
+.Net Framework 3.x,Sunset,languages-and-frameworks,FALSE,<p>New projects should look at using the new .NET 5+ framework</p>
