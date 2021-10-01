@@ -1,16 +1,17 @@
 name,ring,quadrant,isNew,description
-Test 1,Adopt,Techniques,TRUE,<p>Hello Test 1</p>
-Test 2,Trial,Techniques,TRUE,<p>Hello Test 2</p>
-Test 3,Assess,Techniques,TRUE,<p>Hello Test 3</p>
-Test 4,Sunset,Techniques,TRUE,<p>Hello Test 4</p>
-Test 5,Adopt,Platforms,TRUE,<p>Hello Test 5</p>
-Test 6,Trial,Platforms,TRUE,<p>Hello Test 6</p>
+Test 1,Assess,techniques-and-practices,TRUE,<p>Hello Test 1</p>
+Test 2,Trial,techniques-and-practices,TRUE,<p>Hello Test 2</p>
+Test 3,Assess,techniques-and-practices,TRUE,<p>Hello Test 3</p>
+Test 4,Sunset,techniques-and-practices,TRUE,<p>Hello Test 4</p>
+Confluent Kafka,Adopt,Platforms,False,<p>Confluent Kafka is our chosen Messaging Platform.</p>
+Mulesoft Anypoint Platform,Trial,Platforms,TRUE,<p>We are currently evaluating the MuleSoft Anypoint Platform to see how it may help us automate our integrations</p>
 Test 7,Assess,Platforms,TRUE,<p>Hello Test 7</p>
 Test 8,Sunset,Platforms,TRUE,<p>Hello Test 8</p>
-Test 9,Adopt,Tools,TRUE,<p>Hello Test 9</p>
-Test 10,Trial,Tools,TRUE,<p>Hello Test 10</p>
-Test 11,Assess,Tools,TRUE,<p>Hello Test 11</p>
-Test 12,Sunset,Tools,TRUE,<p>Hello Test 12</p>
+Kong Konnect,Adopt,Tools,TRUE,<p>Kong Konnect is our chosen API Gateway and API Management Solution</p>
+Jira,Adopt,Tools,FALSE,<p>Jira is our chosen Issue and Project Tracking Software</p>
+Slack,Adopt,Tools,FALSE,<p>Slack is our chosen messaging platform.</p>
+Logic Monitor,Assess,Tools,TRUE,<p>We are currently evaluating Logic Monitor for our Logging Solution</p>
+Splunk,Assess,Tools,TRUE,<p>We are planning to evalute Splunk as a Log Management and SIEM Solution.</p>
 Test 13,Adopt,languages-and-frameworks,TRUE,<p>Hello Test 13</p>
 Test 14,Trial,languages-and-frameworks,TRUE,<p>Hello Test 14</p>
 Test 15,Assess,languages-and-frameworks,TRUE,<p>Hello Test 15</p>
