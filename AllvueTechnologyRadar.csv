@@ -8,8 +8,13 @@ Mulesoft Anypoint Platform,Trial,Platforms,TRUE,<p>We are currently evaluating t
 Kong Konnect,Adopt,Tools,TRUE,<p>Kong Konnect is our chosen API Gateway and API Management Solution</p>
 Jira,Adopt,Tools,FALSE,<p>Jira is our chosen Issue and Project Tracking Software</p>
 Slack,Adopt,Tools,FALSE,<p>Slack is our chosen messaging platform.</p>
+SonarCloud,Adopt,Tools,True,<p>SonarCloud is our chosen Software Quality Analysis (SQA) tool  <a target="_new" href="https://lift.allvuesystems.com/display/ARCH/Static+Code+Analysis">More Information</a>.</p>
+Checkmarx,Assess,Tools,True,<p>SonarCloud is our chosen Software Quality Analysis (SQA) tool <a target="_new" href="https://lift.allvuesystems.com/display/ARCH/Static+Code+Analysis">More Information</a>.</p>
+Veracode,Assess,Tools,True,<p>Veracode is a Static Application Security Testing (SAST) tool <a target="_new" href="https://lift.allvuesystems.com/display/ARCH/Static+Code+Analysis">More Information</a>.</p>
+WhiteSource,Assess,Tools,FALSE,<p>WhiteSource is our chosen Software Composition Analysis tool. <a target="_new" href="https://lift.allvuesystems.com/display/ARCH/Static+Code+Analysis">More Information</a>.</p>
 Logic Monitor,Assess,Tools,TRUE,<p>We are currently evaluating Logic Monitor for our Logging Solution</p>
 Splunk,Assess,Tools,TRUE,<p>We are planning to evalute Splunk as a Log Management and SIEM Solution.</p>
-.NET 5,Adopt,languages-and-frameworks,TRUE,<p>Hello Test 13</p>
+.NET Standard 2.0,Adopt,languages-and-frameworks,TRUE,<p>We recommend that you use .NET Standard 2.0 for libraries that will be consumed by legacy .Net Framework 4.7+ apps and the new .NET 5+ applications.</p>
+.NET 5,Adopt,languages-and-frameworks,TRUE,<p>.NET 5 or later are acceptable for new projects.</p>
 .Net Framework 4.x,Sunset,languages-and-frameworks,FALSE,<p>New projects should look at using the new .NET 5+ framework</p>
 .Net Framework 3.x,Sunset,languages-and-frameworks,FALSE,<p>New projects should look at using the new .NET 5+ framework</p>
