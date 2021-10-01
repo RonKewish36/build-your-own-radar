@@ -1,23 +1,23 @@
 name,ring,quadrant,isNew,description
-Scrum at Scale,Adopt,techniques-and-practices,FALSE,<p>We have adopted Scrum at Scale as our Agile Practice.</p>
-Contract First API Design,Assess,techniques-and-practices,TRUE,<p>We will be reviewing Contract First API Design with our API CoP.</p>
-Contracts and Providers Pattern,Assess,techniques-and-practices,TRUE,<p>We will be reviewing a Contracts and Providers pattern and Nuget Strategy with Development teams in Q4 2021.</p>
-Centralized Configuration Management,Assess,techniques-and-practices,TRUE,<p>We will be discussing the use of a Centralized Configuration in Q4 of 2021</p>
-Confluent Kafka,Adopt,Platforms,False,<p>Confluent Kafka is our chosen Distributed Messaging Platform.</p>
-Mulesoft Anypoint Platform,Trial,Platforms,TRUE,<p>We are currently evaluating the MuleSoft Anypoint Platform to see how it may help us automate our integrations</p>
-Azure DevOps,Adopt,Platforms,FALSE,<p>Azure DevOps is our chosen platform for source control, builds and deployements.</p>
-Okta,Adopt,Tools,TRUE,<p>Okta has been chosen as our iDaaS platform. Whenever possible, projects needing identity access should integrate with and use Okta.</p>
-Kong Konnect,Adopt,Tools,TRUE,<p>Kong Konnect is our chosen API Gateway and API Management Solution</p>
-Jira,Adopt,Tools,FALSE,<p>Jira is our chosen Issue and Project Tracking Software</p>
-Slack,Adopt,Tools,FALSE,<p>Slack is our chosen messaging platform.</p>
-SonarCloud,Adopt,Tools,True,<p>SonarCloud is our chosen Software Quality Analysis (SQA) tool  <a target='_new' href='https://lift.allvuesystems.com/display/ARCH/Static+Code+Analysis'>More Information</a>.</p>
-Checkmarx,Assess,Tools,True,<p>SonarCloud is our chosen Software Quality Analysis (SQA) tool <a target='_new' href='https://lift.allvuesystems.com/display/ARCH/Static+Code+Analysis'>More Information</a>.</p>
-Veracode,Assess,Tools,True,<p>Veracode is a Static Application Security Testing (SAST) tool <a target='_new' href='https://lift.allvuesystems.com/display/ARCH/Static+Code+Analysis'>More Information</a>.</p>
-WhiteSource,Adopt,Tools,FALSE,<p>WhiteSource is our chosen Software Composition Analysis tool. <a target='_new' href='https://lift.allvuesystems.com/display/ARCH/Static+Code+Analysis'>More Information</a>.</p>
-Mural,Adopt,Tools,TRUE,<p>Mural has been choosen as our visual collaboration platform.</p>
-Logic Monitor,Assess,Tools,TRUE,<p>We are currently evaluating Logic Monitor for our Logging Solution</p>
-Splunk,Assess,Tools,TRUE,<p>We are planning to evalute Splunk as a Log Management and SIEM Solution.</p>
-.NET Standard 2.0,Adopt,languages-and-frameworks,TRUE,<p>We recommend that you use .NET Standard 2.0 for libraries that will be consumed by legacy .Net Framework 4.7+ apps and the new .NET 5+ applications.</p>
-.NET 5,Adopt,languages-and-frameworks,TRUE,<p>.NET 5 or later are acceptable for new projects.</p>
-.NET Framework 4.x,Sunset,languages-and-frameworks,FALSE,<p>New projects should look at using the new .NET 5+ framework</p>
-.NET Framework 3.x,Sunset,languages-and-frameworks,FALSE,<p>New projects should look at using the new .NET 5+ framework</p>
+Scrum at Scale,Adopt,techniques-and-practices,FALSE,"<p>We have adopted Scrum at Scale as our Agile Practice.</p>"
+Contract First API Design,Assess,techniques-and-practices,TRUE,"<p>We will be reviewing Contract First API Design with our API CoP.</p>"
+Contracts and Providers Pattern,Assess,techniques-and-practices,TRUE,"<p>We will be reviewing a Contracts and Providers pattern and Nuget Strategy with Development teams in Q4 2021.</p>"
+Centralized Configuration Management,Assess,techniques-and-practices,TRUE,"<p>We will be discussing the use of a Centralized Configuration in Q4 of 2021</p>"
+Confluent Kafka,Adopt,Platforms,False,"<p>Confluent Kafka is our chosen Distributed Messaging Platform.</p>"
+Mulesoft Anypoint Platform,Trial,Platforms,TRUE,"<p>We are currently evaluating the MuleSoft Anypoint Platform to see how it may help us automate our integrations</p>"
+Azure DevOps,Adopt,Platforms,FALSE,"<p>Azure DevOps is our chosen platform for source control, builds and deployements.</p>"
+Okta,Adopt,Tools,TRUE,"<p>Okta has been chosen as our iDaaS platform. Whenever possible, projects needing identity access should integrate with and use Okta.</p>"
+Kong Konnect,Adopt,Tools,TRUE,"<p>Kong Konnect is our chosen API Gateway and API Management Solution</p>"
+Jira,Adopt,Tools,FALSE,"<p>Jira is our chosen Issue and Project Tracking Software</p>"
+Slack,Adopt,Tools,FALSE,"<p>Slack is our chosen messaging platform.</p>"
+SonarCloud,Adopt,Tools,True,"<p>SonarCloud is our chosen Software Quality Analysis (SQA) tool  <a target='_new' href='https://lift.allvuesystems.com/display/ARCH/Static+Code+Analysis'>More Information</a>.</p>"
+Checkmarx,Assess,Tools,True,"<p>SonarCloud is our chosen Software Quality Analysis (SQA) tool <a target='_new' href='https://lift.allvuesystems.com/display/ARCH/Static+Code+Analysis'>More Information</a>.</p>"
+Veracode,Assess,Tools,True,"<p>Veracode is a Static Application Security Testing (SAST) tool <a target='_new' href='https://lift.allvuesystems.com/display/ARCH/Static+Code+Analysis'>More Information</a>.</p>"
+WhiteSource,Adopt,Tools,FALSE,"<p>WhiteSource is our chosen Software Composition Analysis tool. <a target='_new' href='https://lift.allvuesystems.com/display/ARCH/Static+Code+Analysis'>More Information</a>.</p>"
+Mural,Adopt,Tools,TRUE,"<p>Mural has been choosen as our visual collaboration platform.</p>"
+Logic Monitor,Assess,Tools,TRUE,"<p>We are currently evaluating Logic Monitor for our Logging Solution</p>"
+Splunk,Assess,Tools,TRUE,"<p>We are planning to evalute Splunk as a Log Management and SIEM Solution.</p>"
+.NET Standard 2.0,Adopt,languages-and-frameworks,TRUE,"<p>We recommend that you use .NET Standard 2.0 for libraries that will be consumed by legacy .Net Framework 4.7+ apps and the new .NET 5+ applications.</p>"
+.NET 5,Adopt,languages-and-frameworks,TRUE,"<p>.NET 5 or later are acceptable for new projects.</p>"
+.NET Framework 4.x,Sunset,languages-and-frameworks,FALSE,"<p>New projects should look at using the new .NET 5+ framework</p>"
+.NET Framework 3.x,Sunset,languages-and-frameworks,FALSE,"<p>New projects should look at using the new .NET 5+ framework</p>"
