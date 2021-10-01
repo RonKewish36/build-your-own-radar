@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Test 1,Assess,techniques-and-practices,TRUE,<p>Hello Test 1</p>
+Test 1,Adopt,techniques-and-practices,TRUE,<p>Hello Test 1</p>
 Test 2,Trial,techniques-and-practices,TRUE,<p>Hello Test 2</p>
 Test 3,Assess,techniques-and-practices,TRUE,<p>Hello Test 3</p>
 Test 4,Sunset,techniques-and-practices,TRUE,<p>Hello Test 4</p>
@@ -12,7 +12,7 @@ Jira,Adopt,Tools,FALSE,<p>Jira is our chosen Issue and Project Tracking Software
 Slack,Adopt,Tools,FALSE,<p>Slack is our chosen messaging platform.</p>
 Logic Monitor,Assess,Tools,TRUE,<p>We are currently evaluating Logic Monitor for our Logging Solution</p>
 Splunk,Assess,Tools,TRUE,<p>We are planning to evalute Splunk as a Log Management and SIEM Solution.</p>
-Test 13,Adopt,languages-and-frameworks,TRUE,<p>Hello Test 13</p>
+.NET 5,Adopt,languages-and-frameworks,TRUE,<p>Hello Test 13</p>
 Test 14,Trial,languages-and-frameworks,TRUE,<p>Hello Test 14</p>
 Test 15,Assess,languages-and-frameworks,TRUE,<p>Hello Test 15</p>
-Test 16,Sunset,languages-and-frameworks,TRUE,<p>Hello Test 16</p>
+.Net Framework 4.x,Sunset,languages-and-frameworks,FALSE,<p>New projects should look at using the new .NET 5+ framework</p>
