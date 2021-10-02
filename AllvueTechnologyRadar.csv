@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Scrum@Scale,Adopt,techniques-and-practices,FALSE,"<p>We have adopted Scrum at Scale as our Agile Practice. <a href='https://www.scrumatscale.com/'>More Information</a> </p>"
+Scrum@Scale,Adopt,techniques-and-practices,FALSE,"<p>We have adopted Scrum at Scale as our Agile Practice. <a href='https://www.scrumatscale.com/' target=_blank>2 More Information</a> </p>"
 Mulesoft Anypoint Platform,Trial,Platforms,TRUE,"<p>We are currently evaluating the MuleSoft Anypoint Platform to see how it may help us automate our integrations</p>"
 Contract First API Design,Assess,techniques-and-practices,TRUE,"<p>We will be reviewing Contract First API Design with our API CoP.</p>"
 Contracts and Providers Pattern,Assess,techniques-and-practices,TRUE,"<p>We will be reviewing a Contracts and Providers pattern and Nuget Strategy with Development teams in Q4 2021.</p>"
