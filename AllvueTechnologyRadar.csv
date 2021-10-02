@@ -1,10 +1,12 @@
 name,ring,quadrant,isNew,description
 Scrum at Scale,Adopt,techniques-and-practices,FALSE,"<p>We have adopted Scrum at Scale as our Agile Practice.</p>"
+Mulesoft Anypoint Platform,Trial,Platforms,TRUE,"<p>We are currently evaluating the MuleSoft Anypoint Platform to see how it may help us automate our integrations</p>"
 Contract First API Design,Assess,techniques-and-practices,TRUE,"<p>We will be reviewing Contract First API Design with our API CoP.</p>"
 Contracts and Providers Pattern,Assess,techniques-and-practices,TRUE,"<p>We will be reviewing a Contracts and Providers pattern and Nuget Strategy with Development teams in Q4 2021.</p>"
 Centralized Configuration Management,Assess,techniques-and-practices,TRUE,"<p>We will be discussing the use of a Centralized Configuration in Q4 of 2021</p>"
 Confluent Kafka,Adopt,Platforms,FALSE,"<p>Confluent Kafka is our chosen Distributed Messaging Platform.</p>"
 Mulesoft Anypoint Platform,Trial,Platforms,TRUE,"<p>We are currently evaluating the MuleSoft Anypoint Platform to see how it may help us automate our integrations</p>"
+Snowflake,Adopt,Platforms,TRUE,"<p>Snowflake has been chosen as our Cloud Data Warehouse </p>"
 Azure DevOps,Adopt,Platforms,FALSE,"<p>Azure DevOps is our chosen platform for source control, builds and deployements.</p>"
 Okta,Adopt,Tools,TRUE,"<p>Okta has been chosen as our iDaaS platform. Whenever possible, projects needing identity access should integrate with and use Okta.</p>"
 Kong Konnect,Adopt,Tools,TRUE,"<p>Kong Konnect is our chosen API Gateway and API Management Solution</p>"
